@@ -8,7 +8,7 @@ A comprehensive system designed to manage university-related data.
 - [Setup](#-setup)
 - [Usage](#-usage)
 - [Contribution](#-contribution)
-- [License](#-license)
+
 
 ## 🚀 Features
 - **Students**: Manage student data, courses enrolled, and academic grades.
@@ -37,5 +37,7 @@ Follow the user manual for instructions on using the software and querying the d
 ## ✨ Contribution
 Feel free to raise issues and submit pull requests. For significant changes, kindly open an issue first.
 
-## 📜 License
-This project is licensed under the MIT License.
+
+<img src="images/UM_S ER DIAGRAM.jpg" width="500" height="300">
+
+
