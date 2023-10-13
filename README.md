@@ -38,6 +38,6 @@ Follow the user manual for instructions on using the software and querying the d
 Feel free to raise issues and submit pull requests. For significant changes, kindly open an issue first.
 
 
-<img src="images/UM_S ER DIAGRAM.jpg" width="500" height="300">
+<img src="UM_S ER DIAGRAM.jpg" width="1000" height="500">
 
 
